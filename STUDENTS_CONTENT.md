@@ -5,6 +5,10 @@
 
 [![](http://img.youtube.com/vi/wDbXSEjcoKo/0.jpg)](http://www.youtube.com/watch?v=wDbXSEjcoKo "")
 
+ <iframe width="420" height="315"
+src="http://www.youtube.com/watch?v=wDbXSEjcoKo">
+</iframe> 
+
 ### Slides
 
   * [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)
