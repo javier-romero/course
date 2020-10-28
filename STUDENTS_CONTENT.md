@@ -5,29 +5,7 @@
 
 [![](http://img.youtube.com/vi/wDbXSEjcoKo/0.jpg)](http://www.youtube.com/watch?v=wDbXSEjcoKo "")
 
-<iframe width="420" height="315"
-  src="http://www.youtube.com/watch?v=wDbXSEjcoKo">
-</iframe> 
-
-<http://www.youtube.com/watch?v=wDbXSEjcoKo/>
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-
-### Slides
-
-  * [pdf](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)
-  * [git](https://github.com/potassco-asp-course/organization)
-  * [release](https://github.com/potassco-asp-course/course/releases/download/v1.0.0) (v1.0.0)
-
-### Videos
-
-  * [yt](https://youtu.be/wDbXSEjcoKo)
-    [up](https://mediaup.uni-potsdam.de/Play/22965)
+### [Slides](https://github.com/potassco-asp-course/course/releases/download/v1.0.0/organization.pdf)
 
 ## Motivation
 
